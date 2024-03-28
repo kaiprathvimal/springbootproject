@@ -10,6 +10,7 @@ public class SpringBootProjectsApplication {
 
 		SpringApplication.run(SpringBootProjectsApplication.class, args);
 		System.out.println("Hello Spring Boot");
+		System.out.println("test");
 	}
 
 }
